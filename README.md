@@ -18,7 +18,7 @@
 
 ---
 
-### 👒 About Me
+### 👒 Do You Want To Know About Me ?
 
 + 🧭 Navigating the tech seas one repo at a time  
 + 🍖 Just like Luffy, I love solving bugs & meat  
@@ -26,7 +26,7 @@
 
 ---
 
-### ⚔️ Pirate Skills
+### ⚔️ Challenge My Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,flask,git&theme=dark" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 💻 Hacker Mode Stats
+### 💻Watch My Stats IN Seas of CODE!!!!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parth4042&show_icons=true&theme=tokyonight" />
@@ -50,16 +50,10 @@
 
 ---
 
-### 🐍 Snake Tracker
-
-<p align="center">
-  <img src="https://github.com/Parth4042/Parth4042/raw/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
-</p>
-
 
 ---
 
-### 🕸️ Connect With Me
+### 🕸️ Want To Catch Me ?
 
 <p align="center">
   <a href="mailto:your@email.com">
@@ -75,10 +69,7 @@
 
 ---
 
-### 🧠 Console Output
 
 ```bash
-> Parth4042 is currently hacking through:
-> Next.js, Flask, Medical AI, DevOps, UI/UX
-> Status: 🔥 Focused with Lo-fi + One Piece OST playing...
-> Until the Next Voyage... ⛵
+.
+> Bye, Until the Next Voyage... ⛵
