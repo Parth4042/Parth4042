@@ -6,12 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=☠️+Digital+Skull+Incoming...;Welcome+to+Parth4042's+Terminal+Realm" />
 </p>
 
-
 <p align="center"><b><i>A symbol from the shadows of the terminal...</i></b></p>
 
 <!-- Typing & Glowing Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=🏴‍☠️+Ahoy!+I'm+Parth!;Captain+of+the+Code+Pirates!+☠️" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=🏴‍☠️+Ahoy!+I'm+Parth!;Captain+of+the+Code+Pirates!+☠️" />
 </h1>
 
 <!-- Hacker-style intro -->
@@ -59,7 +58,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Parth4042/Parth4042/output/github-contribution-grid-snake.svg" />
 </p>
- ```
 
 ---
 
@@ -86,9 +84,3 @@
 > Next.js, Flask, Medical AI, DevOps, UI/UX
 > Status: 🔥 Focused with Lo-fi + One Piece OST playing...
 > Until the Next Voyage... ⛵
-
----
-
-<p align="center">
-  <img src="https://media.tenor.com/WbbQ0Knb6vMAAAAC/one-piece-going-merry.gif" width="100%" />
-</p>
