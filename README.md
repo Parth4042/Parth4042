@@ -1,5 +1,5 @@
-<!-- Header GIF -->
-<img src="https://media.tenor.com/UfIfYz4lDg0AAAAC/one-piece-luffy.gif" width="100%" />
+<!-- Header Video -->
+
 
 <h1 align="center">🏴‍☠️ Ahoy! I'm Parth, Captain of the Code Pirates! 🏴‍☠️</h1>
 
