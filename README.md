@@ -1,56 +1,21 @@
-<!-- Header Animation (One Piece Luffy) -->
-<!-- Animated Digital Skull -->
-<div class="skull-container">
-  <pre class="skull">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=☠️+Digital+Skull+Incoming..." />
+</p>
+
+<pre align="center">
+<code>
+
      _____
     /     \
    | () () |
     \  ^  /
      |||||
      |||||
-  </pre>
-</div>
 
-<style>
-  body {
-    background: #000;
-    color: #0f0;
-    font-family: 'Courier New', Courier, monospace;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
+</code>
+</pre>
 
-  .skull-container {
-    animation: flicker 2s infinite;
-  }
-
-  .skull {
-    font-size: 1.5rem;
-    text-shadow: 0 0 5px #0f0, 0 0 10px #0f0;
-    animation: glow 1.5s ease-in-out infinite alternate;
-  }
-
-  @keyframes glow {
-    from {
-      text-shadow: 0 0 5px #0f0, 0 0 10px #0f0;
-    }
-    to {
-      text-shadow: 0 0 10px #0f0, 0 0 20px #0f0;
-    }
-  }
-
-  @keyframes flicker {
-    0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
-      opacity: 1;
-    }
-    20%, 24%, 55% {
-      opacity: 0.2;
-    }
-  }
-</style>
-
+<p align="center"><b><i>A symbol from the shadows of the terminal...</i></b></p>
 
 <!-- Typing & Glowing Name -->
 <h1 align="center">
