@@ -1,8 +1,23 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Info+Is+Comming+.....;Welcome+to+My+Crew" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%2C----%2C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%2C-.----.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%2F%20%20%20.%60%7C%20%20%20%20%20%20%2C--%2C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%5C%20%20%20%2F%20%20%5C%20%20%20%20%2C---%2C%20%20%20%20%20%2C-.----.%20%20%20%20%2C%60%20%20%20.%27%20%20%3A%20%20%20%20%2C--.%27%7C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%20%20%20%3A%20%20%20%20%5C%20%20%20%27%20%20.%20%20%20%20%5C%20%20%20%20%5C%20%20%20%2F%20%20%20%5C%20%3B%20%20%20%20%3B%20%20%20%20%2F%20%20%2C--%2C%20%20%7C%20%3A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%20%20%20%7C%20%20%20.%5C%20%3A%20%2F%20%20%3B%20%20%20%20%27.%20%20%20%20%5C%20%20%20%20%20%20%5C%20%20%20%7C%20%20%20%7C%20.%5C%20%3A%7C%20%20%20%20%20%3A%20%20%20%20%7C%20%7C%20%20%20%7C%20:%20_%27%20%7C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=.%20%20%20%3A%20%20%7C%3A%20%7C%3A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%20%20%20%7C%20%20%20%7C%20.%20%3A%20%7C%3A%20%7C%20%20%20%20%3A%20%7C.%27%20%20%20%7C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%20%20%20%7C%20%20%20%5C%20%3A%3A%20%20%7C%20%20%20%2F%5C%20%20%20%20%20%5C%20%20.%20%20%20%3A%20%7C%3A%20%7C%3B%20%20%20%20%3B%20%3A%20%20%20%3A%20%7C.%27%20%20%20%7C%20.%27%20%20%7C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%20%20%20%3A%20.%20%20%20%2F%7C%20%20%3A%20%20%27%20%3B.%20%20%20%3A%20%7C%20%7C%20%20%20%7C%20%20%20%5C%20%3A%60----%27%20%20%7C%20%20%7C%20%7C%20%20%20%27%20%20%3B%20%3A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%3B%20%20%20%7C%20%7C%60-%27%20%7C%20%20%7C%20%20%3B%2F%20%20%20%5C%20%20%20%5C%7C%20%20%20%3A%20.%20%20%2F%20%20%20%20%27%20%20%3A%20%20%20%7C%20%20.%27%20%20%20%7C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%20%20%20%7C%20%3B%20%20%20%20%27%20%20%3A%20%20%7C%20%5C%20%20%20%5C%20%2C%27%3B%20%20%20%7C%20%7C%20%20%5C%20%20%20%20%20%20%20%7C%20%20%7C%20%3A%20%20%7C%20%27" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%3A%20%20%20%27%20%7C%20%20%20%7C%20%20%20%20%27%20%20%20%20--%27%20%20%20%20%7C%20%20%20%7C%20%3B%5C%20%20%20%20%20%20%20%20%27%20%20%20%3A%20%20%3B--%27" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%3A%20%20%20%3A%20%3A%20%20%20%7C%20%20%20%7C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3A%20%20%20%3A%20%3A%20-%27%20%20%20%20%20%20%3B%20%20%20%20%3A%20%3B--%27" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%20%20%20%7C%20%3A%20%20%20%7C%20%20%20%7C%20%2C%27%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7C%20%20%20%2C%2F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10&color=00FF00&center=true&vCenter=true&width=800&lines=%60---%27.%7C%20%20%20%20%60--%27%27%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%27---%27" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Info+Is+Comming+.....;Welcome+to+My+Crew" />
 </p>
+
 
 <p align="center"><b><i>A symbol from the shadows of the terminal...</i></b></p>
 
