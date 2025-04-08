@@ -1,15 +1,14 @@
+
 <p align="center">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠤⠤⠄⢀⡀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢀⠔⠈⠀⠀⠀⠀⠀⠀⠀⠑⢄⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⡐⠁⢠⢰⣊⣄⣤⣄⣀⠀⠀⠀⠀⠑⡀⠀⠀⠀
-⠀⠀⠀⠀⢀⠀⠐⠂⠉⠉⠉⣀⠉⠉⠛⠛⠶⣄⠀⠀⢱⠀⠀⠀
-⠀⠀⡠⢐⠕⠀⠀⠠⢶⢷⡆⠘⣟⣢⣄⢠⠀⠈⠙⢄⢸⠀⠀⠀
-⠀⠌⠀⠀⠀⠀⣠⣿⠏⢸⠇⠀⠘⣿⠹⣿⣿⢐⢄⢀⠑⠄⠀⠀
-⠸⠀⠀⠀⡀⣽⣿⢿⢀⠈⠄⠈⠀⠇⣀⢽⣷⣜⣃⠡⠀⠀⢀⠀
-⠀⠣⠀⣈⡰⢻⣿⠸⢎⡉⠣⠀⠈⠐⢡⡈⠸⣿⢯⡆⠰⠀⠀⡆
-⠀⠀⠉⠢⣐⠁⢿⡆⠢⠥⠂⡃⠀⠰⠠⠔⠁⡷⢬⡟⠺⠀⢀⠇
-⠀⠀⠀⠀⠀⠉⠊⢿⠀⢂⠤⡤⣦⡠⠀⠠⡰⠾⣋⣈⠶⠐⠊⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠑⠤⢀⡀⢁⣀⠬⠊⠉⠀⠀⠀⠀⠀⠀⠀
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&pause=900&color=39FF14&background=00000000&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%9A%80+%F0%9D%97%94%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BC%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6+%F0%9D%97%94%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BB%F0%9D%97%BC...;%F0%9F%A6%84+System+Logged+In+As+Captain+Parth;%E2%9A%94%EF%B8%8F+Initializing+Code+Sea+Protocols...;%F0%9F%8C%8A+Route%3A+Next.js%2C+AI%2C+Flask%2C+Open+Source...;%F0%9F%9A%80+All+Sails+Set!+Hack+The+Grand+Line!+" />
+</p>
+
+<p align="center">
+  <img src="https://api.iconify.design/simple-icons:pirates.svg?color=%23FF0000&width=90&height=90" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&width=600&lines=%F0%9F%91%BD+%F0%9D%97%94%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BB%F0%9D%97%BC+Detected+Terminal+Vibes...;%E2%9A%94%EF%B8%8F+AI+AI+Captain!;%F0%9F%A6%84+Accessing+Main+Deck+Repo...;Initiating+Hacker+Pirate+Protocol..." />
 </p>
 
 <p align="center">
