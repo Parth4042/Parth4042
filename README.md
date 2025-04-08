@@ -28,7 +28,9 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Parth4042&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth4042&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4042&layout=compact&theme=tokyonight" /> </p>
 🐍 Snake Tracker
 <p align="center"> <img src="https://github.com/Parth4042/Parth4042/blob/output/github-contribution-grid-snake.svg" /> </p>
----
+
+🕸️ Connect With Me
+<p align="center"> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/Email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://yourwebsite.com"> <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" /> </a> </p> 
 
 ### 🧠 Console Output
 
@@ -36,8 +38,7 @@
 > Parth4042 is currently hacking through:
 > Next.js, Flask, Medical AI, DevOps, UI/UX
 > Status: 🔥 Focused with Lo-fi + One Piece OST playing...
+> Until the Next Voyage... ⛵
 
 🕸️ Connect With Me
-<p align="center"> <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a> </p>
-⛵ Until the Next Voyage...
-<p align="center"> <img src="https://media.tenor.com/WbbQ0Knb6vMAAAAC/one-piece-going-merry.gif" width="100%" /> </p>
+<p align="center"> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/Email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://yourwebsite.com"> <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" /> </a> </p> 
