@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=☠️+Digital+Skull+Incoming..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=☠️+Digital+Skull+Incoming...;Welcome+to+Parth4042's+Terminal+Realm" />
 </p>
+
 
 <pre align="center">
 <code>
