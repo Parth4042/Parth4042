@@ -53,7 +53,9 @@
 
 ### 🐍 Snake Animation (Dynamic Contribution Tracker)
 
-![Snake animation](https://github.com/Parth4042/Parth4042/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Parth4042/Parth4042/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
