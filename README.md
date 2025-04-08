@@ -1,11 +1,13 @@
-<!-- Header Video -->
+<!-- Header GIF -->
 <p align="center">
   <img src="./anime1.gif" alt="Luffy One Piece" width="100%" />
 </p>
 
-<h1 align="center">🏴‍☠️ Ahoy! I'm Parth, Captain of the Code Pirates! 🏴‍☠️</h1>
+<h1 align="center">
+  🏴‍☠️✨【ＰＡＲＴＨ】✨🏴‍☠️  
+</h1>
 
-<p align="center">Sailing the Grand Line of Web Dev, AI, and Open Source!</p>
+<p align="center">⚡ Captain of the Code Pirates | Sailing the Grand Line of Web Dev, AI & OSS ⚡</p>
 
 ---
 
@@ -50,6 +52,14 @@
 <p align="center">
   <img src="https://github.com/Parth4042/Parth4042/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+### 🗺️ Join My Crew
+
+- 📫 **Email**: [your@email.com](mailto:your@email.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 🌐 **Website**: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
