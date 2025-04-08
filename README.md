@@ -1,20 +1,11 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/Y0JrN0aCXH29w7GeUX/giphy.gif" width="120" alt="Digital Skull" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=☠️+Digital+Skull+Incoming...;Welcome+to+Parth4042's+Terminal+Realm" />
 </p>
 
-
-<pre align="center">
-<code>
-
-     _____
-    /     \
-   | () () |
-    \  ^  /
-     |||||
-     |||||
-
-</code>
-</pre>
 
 <p align="center"><b><i>A symbol from the shadows of the terminal...</i></b></p>
 
