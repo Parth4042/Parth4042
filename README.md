@@ -1,7 +1,56 @@
 <!-- Header Animation (One Piece Luffy) -->
-<p align="center">
-  <img src="./anime1.gif" alt="Luffy One Piece" width="100%" />
-</p>
+<!-- Animated Digital Skull -->
+<div class="skull-container">
+  <pre class="skull">
+     _____
+    /     \
+   | () () |
+    \  ^  /
+     |||||
+     |||||
+  </pre>
+</div>
+
+<style>
+  body {
+    background: #000;
+    color: #0f0;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .skull-container {
+    animation: flicker 2s infinite;
+  }
+
+  .skull {
+    font-size: 1.5rem;
+    text-shadow: 0 0 5px #0f0, 0 0 10px #0f0;
+    animation: glow 1.5s ease-in-out infinite alternate;
+  }
+
+  @keyframes glow {
+    from {
+      text-shadow: 0 0 5px #0f0, 0 0 10px #0f0;
+    }
+    to {
+      text-shadow: 0 0 10px #0f0, 0 0 20px #0f0;
+    }
+  }
+
+  @keyframes flicker {
+    0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+      opacity: 1;
+    }
+    20%, 24%, 55% {
+      opacity: 0.2;
+    }
+  }
+</style>
+
 
 <!-- Typing & Glowing Name -->
 <h1 align="center">
