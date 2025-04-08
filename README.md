@@ -56,8 +56,9 @@
 ### 🐍 Snake Tracker
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Parth4042/Parth4042/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Parth4042/Parth4042/raw/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </p>
+
 
 ---
 
