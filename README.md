@@ -18,16 +18,46 @@
 
 ### 👒 About Me
 
++ 🧭 Navigating the tech seas one repo at a time  
++ 🍖 Just like Luffy, I love solving bugs & meat  
++ 🗺️ Currently sailing through: Next.js, Flask, AI, Open Source  
 
-+ 🧭 Navigating the tech seas one repo at a time
-+ 🍖 Just like Luffy, I love solving bugs & meat
-+ 🗺️ Currently sailing through: Next.js, Flask, AI, Open Source
-⚔️ Pirate Skills
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,flask,git&theme=dark" /> </p>
-💻 Hacker Mode Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Parth4042&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth4042&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4042&layout=compact&theme=tokyonight" /> </p>
-🐍 Snake Tracker
-<p align="center"> <img src="https://github.com/Parth4042/Parth4042/blob/output/github-contribution-grid-snake.svg" /> </p> <details> <summary>⚙️ Workflow YAML for Snake Animation</summary>
+---
+
+### ⚔️ Pirate Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,flask,git&theme=dark" />
+</p>
+
+---
+
+### 💻 Hacker Mode Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parth4042&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth4042&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4042&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Snake Tracker
+
+<p align="center">
+  <img src="https://github.com/Parth4042/Parth4042/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<details>
+  <summary>⚙️ Workflow YAML for Snake Animation</summary>
+
+```yaml
 name: Generate Snake Animation 🐍
 
 on:
@@ -58,10 +88,27 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
 </details>
 
-🕸️ Connect With Me
-<p align="center"> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/Email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://yourwebsite.com"> <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" /> </a> </p> 
+---
+
+### 🕸️ Connect With Me
+
+<p align="center">
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ### 🧠 Console Output
 
@@ -70,6 +117,10 @@ jobs:
 > Next.js, Flask, Medical AI, DevOps, UI/UX
 > Status: 🔥 Focused with Lo-fi + One Piece OST playing...
 > Until the Next Voyage... ⛵
+```
 
-🕸️ Connect With Me
-<p align="center"> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/Email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://yourwebsite.com"> <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" /> </a> </p> 
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/WbbQ0Knb6vMAAAAC/one-piece-going-merry.gif" width="100%" />
+</p>
