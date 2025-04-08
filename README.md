@@ -1,5 +1,8 @@
 <!-- Header Video -->
-
+<video autoplay loop muted playsinline width="100%">
+  <source src="https://your-video-url.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h1 align="center">🏴‍☠️ Ahoy! I'm Parth, Captain of the Code Pirates! 🏴‍☠️</h1>
 
@@ -43,18 +46,10 @@
 
 ---
 
-### 🗺️ Join My Crew
-
-- 📫 **Email**: [your@email.com](mailto:your@email.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 **Website**: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-### 🐍 Snake Animation (Dynamic Contribution Tracker)
+### 🐍 Snake Tracker
 
 <p align="center">
-  <img src="https://github.com/Parth4042/Parth4042/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Parth4042/Parth4042/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
