@@ -1,8 +1,7 @@
 <!-- Header Video -->
-<video autoplay loop muted playsinline width="100%">
-  <source src="https://your-video-url.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+  <img src="https://media.tenor.com/UfIfYz4lDg0AAAAC/one-piece-luffy.gif" alt="Luffy One Piece" width="100%" />
+</p>
 
 <h1 align="center">🏴‍☠️ Ahoy! I'm Parth, Captain of the Code Pirates! 🏴‍☠️</h1>
 
