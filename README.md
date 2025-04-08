@@ -1,22 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Info+Is+,----,            
-,-.----.                                  ,/   .`|       ,--, 
-\    /  \     ,---,       ,-.----.      ,`   .'  :     ,--.'| 
-|   :    \   '  .' \      \    /  \   ;    ;     /  ,--,  | : 
-|   |  .\ : /  ;    '.    ;   :    \.'___,/    ,',---.'|  : ' 
-.   :  |: |:  :       \   |   | .\ :|    :     | |   | : _' | 
-|   |   \ ::  |   /\   \  .   : |: |;    |.';  ; :   : |.'  | 
-|   : .   /|  :  ' ;.   : |   |  \ :`----'  |  | |   ' '  ; : 
-;   | |`-' |  |  ;/  \   \|   : .  /    '   :  ; '   |  .'. | 
-|   | ;    '  :  | \  \ ,';   | |  \    |   |  ' |   | :  | ' 
-:   ' |    |  |  '  '--'  |   | ;\  \   '   :  | '   : |  : ; 
-:   : :    |  :  :        :   ' | \.'   ;   |.'  |   | '  ,/  
-|   | :    |  | ,'        :   : :-'     '---'    ;   : ;--'   
-`---'.|    `--''          |   |.'                |   ,/       
-  `---`                   `---'                  '---'        
-                                                              .;Welcome+to+My+Crew" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Info+Is+Comming+.....;Welcome+to+My+Crew" />
 </p>
 
 <p align="center"><b><i>A symbol from the shadows of the terminal...</i></b></p>
