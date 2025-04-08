@@ -3,9 +3,15 @@
   <img src="./anime1.gif" alt="Luffy One Piece" width="100%" />
 </p>
 
-<h1 align="center">
-  🏴‍☠️✨【ＰＡＲＴＨ】✨🏴‍☠️  
-</h1>
+<p align="center">
+  <svg width="100%" height="100">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="none" stroke="black" stroke-width="1" font-size="40" font-family="monospace">
+      <animate attributeName="stroke-dasharray" from="0,200" to="200,0" dur="4s" repeatCount="indefinite" />
+      Parth4042
+    </text>
+  </svg>
+</p>
+
 
 <p align="center">⚡ Captain of the Code Pirates | Sailing the Grand Line of Web Dev, AI & OSS ⚡</p>
 
