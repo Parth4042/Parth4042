@@ -1,14 +1,10 @@
 
 
 <p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=5&color=00FF00&center=true&vCenter=true&width=800&lines=_____%20%20%20%20%20%20%20%20%20%20_____%20%20%20%20_____%20%20______%20%20_______%20_%20%20%20%20_"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=5&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%20__%20%5C%20%20%2F%5C%20%20%20%7C%20__%20%5C%20%20%7C_%20%20%20_%7C__%20%20__%7C__%20%20__%7C%20%7C%20%20%20%7C%20%7C"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=5&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%20%7C__)%20%7C%20%2F%20%20%5C%20%20%7C%20%7C__)%20%7C%20%20%7C%20%7C%20%20%20%20%7C%20%7C%20%20%20%20%7C%20%7C%20%20%7C%20%20%7C%20%7C__%7C%20%7C"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=5&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%20%20___/%20%2F%20/%20%5C%20%5C%20%7C%20%20_%20%20/%20%20%7C%20%7C%20%20%20%20%7C%20%7C%20%20%20%20%7C%20%7C%20%20__%20%20%7C"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=5&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%20%7C%20%20%20%2F%20____%20%5C%20%7C%20%7C%20%5C%20%5C%20%20_%7C%20%7C_%20%20%20%7C%20%7C%20%20%20%20%7C%20%7C%20%7C%20%20%7C%20%7C"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=5&color=00FF00&center=true&vCenter=true&width=800&lines=%7C_%7C%20%20%20%2F_%2F%20%20%20%20%5C_%5C_%7C%20%20%5C_%5C%7C_____%7C%20%20%7C_%7C%20%20%20%20%7C_%7C%20%7C_%7C%20%20%7C_%7C"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=(\_/)(\_/)(\_/)(\_/)(\_/);(•_•)(•_•)(•_•)(•_•)(•_•);/ >P+/ >A+/ >R+/ >T+/ >H+;(_)(_)(_)(_)(_)"/>
 </p>
+
 
 </p>
 
