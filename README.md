@@ -1,37 +1,41 @@
-<!-- Hacker Header Animation -->
+<!-- Header Animation (One Piece Luffy) -->
 <p align="center">
-  <img src="./anime1.gif" alt="Cyber Luffy" width="100%" />
+  <img src="./anime1.gif" alt="Luffy One Piece" width="100%" />
 </p>
 
+<!-- Typing & Glowing Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=%F0%9F%94%91+Welcome+to+Parth's+Cyber+Den;%F0%9F%94%BB+AI+Ninja+%7C+Fullstack+Samurai;%F0%9F%A4%96+Building+Smart+Worlds+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=🏴‍☠️+Ahoy!+I'm+Parth!;Captain+of+the+Code+Pirates!+☠️" />
 </h1>
+
+<!-- Hacker-style intro -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+  <b><i>Sailing the Grand Line of Web Dev, AI, and Open Source!</i></b>
+</p>
 
 ---
 
-### 🧙‍♂️ About Me
+### 👒 About Me
 
 
-> Parth4042 --whoami
-👨‍💻 Captain of Code | One Piece Fanatic | Cyber Explorer
-
-> tech stack --list
-🧠 Python, JS, Flask, Next.js, React, TailwindCSS, AI, Git
-
-> mission --now
-⚙️ Innovate AI Tools & Build Open Source Magic
-
-💻 System Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Parth4042&show_icons=true&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Parth4042&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4042&layout=compact&theme=radical&hide_border=true" /> </p>
-🐍 Snake Contribution Tracker
++ 🧭 Navigating the tech seas one repo at a time
++ 🍖 Just like Luffy, I love solving bugs & meat
++ 🗺️ Currently sailing through: Next.js, Flask, AI, Open Source
+⚔️ Pirate Skills
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,flask,git&theme=dark" /> </p>
+💻 Hacker Mode Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Parth4042&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth4042&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4042&layout=compact&theme=tokyonight" /> </p>
+🐍 Snake Tracker
 <p align="center"> <img src="https://github.com/Parth4042/Parth4042/blob/output/github-contribution-grid-snake.svg" /> </p>
-🌐 Contact & Social Links
+🧠 Console Output
 bash
 Copy
 Edit
-> Email: parth@example.com
-> LinkedIn: https://linkedin.com/in/your-link
-> Portfolio: https://yourwebsite.com
-> Dev Mode: ACTIVE
-🔮 Terminal Outro
-<p align="center"> <img src="https://media.tenor.com/rxI2UszvpdMAAAAC/one-piece-hacker.gif" width="100%" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF3CAC&center=true&vCenter=true&width=500&lines=See+you+on+the+next+cyber+voyage...;Keep+Hacking%2C+Keep+Coding+%F0%9F%9A%80" /> </p>
+> Parth4042 is currently hacking through:
+> Next.js, Flask, Medical AI, DevOps, UI/UX
+> Status: 🔥 Focused with Lo-fi + One Piece OST playing...
+🕸️ Connect With Me
+<p align="center"> <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a> </p>
+⛵ Until the Next Voyage...
+<p align="center"> <img src="https://media.tenor.com/WbbQ0Knb6vMAAAAC/one-piece-going-merry.gif" width="100%" /> </p>
