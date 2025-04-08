@@ -1,50 +1,62 @@
-<h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">A passionate Full Stack Developer from [Your Country]</h3>
+<!-- Header GIF -->
+<img src="https://media.tenor.com/UfIfYz4lDg0AAAAC/one-piece-luffy.gif" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<h1 align="center">🏴‍☠️ Ahoy! I'm Parth, Captain of the Code Pirates! 🏴‍☠️</h1>
 
-- 🔭 I’m currently working on **Techonsy Software Pvt. Ltd. , Pune**
-
-- 🌱 I’m currently learning **Next.js, Framer Motion, AI-powered tools**
-
-- 💬 Ask me about **React, Flask, AI, APIs**
-
-- 📫 How to reach me: **your.email@example.com**
-
-- ⚡ Fun fact: **I love tech and coffee equally ☕**
+<p align="center">Sailing the Grand Line of Web Dev, AI, and Open Source!</p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 👒 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flask,python,git,github,vscode&perline=7" />
+- 🧭 Navigating the tech seas one repo at a time  
+- 🍖 Just like Luffy, I love solving bugs & meat  
+- 🗺️ Currently sailing through: `Next.js`, `Flask`, `AI`, `Open Source`
+
+---
+
+### ⚔️ Pirate Skills (Dev Stack)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+---
+
+### 💰 My Bounty Board (Stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parth4042&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth4042&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4042&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 🗺️ Join My Crew
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&theme=tokyonight" alt="yourusername" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="yourusername" />
-</p>
+- 📫 **Email**: [your@email.com](mailto:your@email.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 🌐 **Website**: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
-### 🧠 Latest Projects
+### 🐍 Snake Animation (Dynamic Contribution Tracker)
 
-- [Project 1](https://github.com/yourusername/project1) – brief description  
-- [Project 2](https://github.com/yourusername/project2) – brief description  
+![Snake animation](https://github.com/Parth4042/Parth4042/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 📫 Connect with Me
+### ⛵ Until the Next Voyage...
 
-<p align="left">
-<a href="https://linkedin.com/in/yourname" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-<a href="mailto:your.email@example.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
-</p>
+<img src="https://media.tenor.com/WbbQ0Knb6vMAAAAC/one-piece-going-merry.gif" width="100%" />
