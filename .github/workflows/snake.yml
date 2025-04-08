@@ -3,12 +3,12 @@ name: Generate Snake Animation 🐍
 on:
   schedule:
     - cron: "0 0 * * *" # Runs every day at midnight UTC
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    name: generate snake gif 🐍
+    name: Generate snake gif 🐍
 
     steps:
       - name: Checkout repo
