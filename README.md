@@ -15,7 +15,7 @@ Hello! I'm Parth, a passionate Software and AI Developer with a knack for creati
 - 🔭 I’m currently working on **AI-driven applications** and **full-stack web development**.
 - 🌱 I’m learning more about **Machine Learning** and **Deep Learning**.
 - 💬 Ask me about **Python**, **JavaScript**, **AI**, and **Open Source**.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me:[Email](parthdeshmukh4042@gmail.com)
 
 ---
 
@@ -61,9 +61,7 @@ Hello! I'm Parth, a passionate Software and AI Developer with a knack for creati
 
 ### 📜 Notable Projects
 
-- **[Project Name 1](https://github.com/yourusername/project1)**: A brief description of what this project does and the technologies used.
-- **[Project Name 2](https://github.com/yourusername/project2)**: A brief description of what this project does and the technologies used.
-- **[Project Name 3](https://github.com/yourusername/project3)**: A brief description of what this project does and the technologies used.
+- **[Ai-Driven Breast Cancer Diagnosis & Metastasis Risk Prediction](https://github.com/yourusername/project1)**: AI assistant for pathologist who can reduce 1/2 workload through automation.
 
 ---
 
