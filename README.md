@@ -52,7 +52,7 @@ Hello! I'm Parth, a passionate Software and AI Developer with a knack for creati
   <a href="https://twitter.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com](https://portfolio-coral-mu-65.vercel.app/" target="_blank">
+  <a href="https://portfolio-coral-mu-65.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
